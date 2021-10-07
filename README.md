@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @geimbar, a long time .NET developer working on various business oriented software projects in all kind of roles.
-- 👀 I’m interested in this and that, dependent on the focus. Have been doing a lot of learning on .net core over the years, testing my projects on Mac, Linux and RasberryPi. Over a period of years I did publish few version of a IOS app that worked on public Instagram feeds, used that to teach my self Objective C and Swift.
-- 🌱 I’m currently learning Flutter, with the maim of using it for developing a web-based/app solution offer for house and property maintenance. 
+- 👋 Hi, I’m @geimbar, a long time .NET developer during the daytime - working on various business oriented software projects in all kind of roles.
+- 👀 I’m interested in this and that, dependent on the focus at that moment. Have been doing a lot of learning on .NET Core over the years, and testing my projects on Mac, Linux and RasberryPi. Over a period of years I did publish few version of an iOS app that worked on public Instagram feeds, used that to teach my self Objective C and Swift.
+- 🌱 I’m currently learning Flutter, with the aim of using it for developing a web-based/app solution offer for house and property maintenance. 
 - 📫 How to reach me ... geimbar @ reginn.net
 
 <!---
